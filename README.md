@@ -19,4 +19,5 @@ https://www.coursera.org/learn/cloud-computing-foundations-duke/home/
 * DevOps
 * Implementing IaC
 
-Example of GitHub Gist - (https://gist.github.com/Neekiitag/a994d5d4a3fad05fc5aa5561ac8e9791)
+Example of GitHub Gist - [demo](https://gist.github.com/Neekiitag/a994d5d4a3fad05fc5aa5561ac8e9791)
+  
