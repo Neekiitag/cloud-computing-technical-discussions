@@ -1,7 +1,7 @@
 # cloud-computing-technical-discussions
 This is a demo repo for the purpose of documentation for the 'Fundamentals of Cloud Computing' course by Duke University on coursera. The link of this course is as follows - 
 
-https://www.coursera.org/learn/cloud-computing-foundations-duke/home/
+[Coursera link - Cloud Computing Foundations: Duke University](https://www.coursera.org/learn/cloud-computing-foundations-duke/home/)
 
 ## Course Prerequisites are-
 1. Intermediate level Python
@@ -19,5 +19,15 @@ https://www.coursera.org/learn/cloud-computing-foundations-duke/home/
 * DevOps
 * Implementing IaC
 
+
+### Week 2: Developing effective technical discussions
+The effective use of gitHub gist for tagging the code file, Trello for Project management, code integration using Google Colab and Jupyter were explained to maintain the level of documentation in any project.
+
 Example of GitHub Gist - [demo](https://gist.github.com/Neekiitag/a994d5d4a3fad05fc5aa5561ac8e9791)
-  
+
+### Week 3: Introduction to AWS Cloud developemnt.
+This module covered the following topics -
+* What is Continuous integration ? Why we want it?
+* AWS Cloud9 continuous integration from zero
+* Construct a Python Project 
+* Develop GitHub Actions Testing for an AWS Project
