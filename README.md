@@ -1,5 +1,5 @@
 # cloud-computing-technical-discussions
-This is a demo repo for the purpose of documentation for the 'Fundamentals of Cloud Computing' course by Duke University on coursera. The link of this course is as follows - 
+This is a repo for the purpose of documentation for the 'Fundamentals of Cloud Computing' course by Duke University on coursera. The link of this course is as follows - 
 
 [Coursera link - Cloud Computing Foundations: Duke University](https://www.coursera.org/learn/cloud-computing-foundations-duke/home/)
 
